@@ -1,0 +1,39 @@
+Polityka Prywatności
+
+Calorie Calculator
+
+Data wejścia w życie: [Data]
+
+Twoja prywatność jest dla nas ważna. Niniejsza Polityka Prywatności opisuje, w jaki sposób aplikacja Calorie Calculator („Aplikacja”) gromadzi, przechowuje i chroni informacje użytkowników.
+
+1. Informacje, które zbieramy
+
+Aplikacja przechowuje wszystkie potrzebne dane na urządzeniu użytkownika. Nie zbieramy ani nie przechowujemy danych osobowych na naszych serwerach.
+
+2. Cel zbierania danych
+
+Dane przechowywane na urządzeniu służą do personalizacji doświadczeń użytkowników oraz do śledzenia i analizowania spożycia kalorii.
+
+3. Udostępnianie danych
+
+Nie udostępniamy danych użytkowników stronom trzecim. Wszystkie dane są przechowywane lokalnie na urządzeniu użytkownika.
+
+4. Przechowywanie danych
+
+Dane są przechowywane wyłącznie na urządzeniu użytkownika tak długo, jak długo użytkownik korzysta z Aplikacji. Użytkownik może usunąć dane, odinstalowując Aplikację.
+
+5. Bezpieczeństwo danych
+
+Dokładamy wszelkich starań, aby chronić dane użytkowników przed nieautoryzowanym dostępem, ujawnieniem lub zniszczeniem poprzez stosowanie odpowiednich środków technicznych i organizacyjnych.
+
+6. Prawa użytkowników
+
+Użytkownicy mają prawo do dostępu, poprawiania i usuwania swoich danych przechowywanych na urządzeniu. W celu uzyskania pomocy w zarządzaniu danymi, prosimy o kontakt z naszym zespołem wsparcia.
+
+7. Zmiany w Polityce Prywatności
+
+Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej Polityce Prywatności. Wszelkie zmiany będą publikowane w Aplikacji wraz z aktualizowaną datą wejścia w życie.
+
+8. Kontakt
+
+W przypadku pytań dotyczących niniejszej Polityki Prywatności, prosimy o kontakt pod adresem: kamil.pierudzki.software@gmail.com
